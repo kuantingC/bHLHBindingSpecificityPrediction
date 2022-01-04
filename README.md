@@ -23,7 +23,9 @@ The programming work will be done in Matlab/R. GBshape, a genome browser for DNA
 
 
 ### Reference
-[1] 	Rohs R, West SM, Sosinsky A, Liu P, Mann RS, Honig B., “The role of DNA shape in protein-DNA recognition.,” Nature, 29 10 2009. 
-[2] 	Chiu TP, Yang L, Zhou T, Main BJ, Parker SC, Nuzhdin SV, Tullius TD, Rohs R., “GBshape: a genome browser database for DNA shape annotations.,” J Biomol Struct Dyn, 5 2015. 
-[3] 	Raluca Gordân, Ning Shen, Iris Dror, Tianyin Zhou, John Horton, Remo Rohs, and Martha L. Bulyk, “Genomic regions flanking E-box binding sites influence DNA binding specificity of bHLH transcription factors through DNA shape,” Cell Rep, 4 4 2013. 
+1. Rohs R, West SM, Sosinsky A, Liu P, Mann RS, Honig B., “The role of DNA shape in protein-DNA recognition.,” Nature, 29 10 2009. 
+
+2. Chiu TP, Yang L, Zhou T, Main BJ, Parker SC, Nuzhdin SV, Tullius TD, Rohs R., “GBshape: a genome browser database for DNA shape annotations.,” J Biomol Struct Dyn, 5 2015. 
+
+3. Raluca Gordân, Ning Shen, Iris Dror, Tianyin Zhou, John Horton, Remo Rohs, and Martha L. Bulyk, “Genomic regions flanking E-box binding sites influence DNA binding specificity of bHLH transcription factors through DNA shape,” Cell Rep, 4 4 2013. 
 
